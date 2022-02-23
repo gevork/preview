@@ -1,0 +1,1 @@
+export 'screen/places_on_map_page.dart';
